@@ -5,18 +5,18 @@
         <img src="./images/barres.png" alt="Barres de menu burger" id="barres">
     </div>
 
-        <nav id="menu">
+    <nav id="menu">
+        
             
-            <figure class="back-left"><a href="index.php"><img src="./images/logo-fox.png" alt="Image plus grand de mon logo" class="logo-left"></a></figure>
-              
-            <ul>
-                <li><a href="./index.php">Portfolio</a></li>
-                <li><a href="./project.php">Projets</a></li>
-                <li><a href="index.php#contact">Contact</a></li>
-                <li><a href="./aboutme.php" target="blank">À propos</a></li>
-            </ul>
-            
-        </nav>
+        <ul>
+            <li><a href="./index.php">Portfolio</a></li>
+            <li><a href="./project.php">Projets</a></li>
+            <li><a href="index.php#contact">Contact</a></li>
+            <li><a href="./aboutme.php" target="blank">À propos</a></li>
+        </ul>
+        
+    </nav>
+
 </header>
 
 <main id="main-page">

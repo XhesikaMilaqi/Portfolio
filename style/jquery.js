@@ -69,7 +69,6 @@ let menuB = document.getElementById('barres');
 let menu = document.getElementById('menu');
     menuB.addEventListener('click', function(){
         menu.classList.toggle('show');
-        body[0].classList.toggle('test');
     });
    
 

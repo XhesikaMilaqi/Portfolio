@@ -18,7 +18,7 @@
 
 </head>
 
-<body class="test">
+<body class="test row-limit-size">
     <img src="./images/logo-fox.png" alt="Logo de portfolio" id="logo">
     <!-- Header et menu -->
     <header class="row-limit-size">
@@ -27,16 +27,12 @@
         </div>
 
         <nav id="menu">
-            
-            <figure class="back-left"><a href="index.php"><img src="./images/logo-fox.png" alt="Image plus grand de mon logo" class="logo-left"></a></figure>
-              
             <ul>
-                <li><a href="./index.php">Portfolio</a></li>
-                <li><a href="./project.php">Projets</a></li>
-                <li><a href="index.php#contact">Contact</a></li>
-                <li><a href="./aboutme.php" target="blank">À propos</a></li>
+                <li ><a href="./index.php">Portfolio</a></li>
+                <li ><a href="./project.php">Projets</a></li>
+                <li ><a href="index.php#contact">Contact</a></li>
+                <li ><a href="./aboutme.php" target="blank" >À propos</a></li>
             </ul>
-            
         </nav>
     </header>
     <main id="main-page" class="row-limit-size">
@@ -45,7 +41,7 @@
         <img src="./images/Background.png" alt="background" class="background-first">
         <div class="reseaux">
             <a href="https://github.com/XhesikaMilaqi" target="_blank"><img src="./images/git.png" alt="Logo de github" class="reseau-soc"></a>
-            <a href="" target="_blank"></a><img src="./images/instagram.png" alt="Logo de Instagram" class="reseau-soc">
+            <a href="" target="_blank"><img src="./images/instagram.png" alt="Logo de Instagram" class="reseau-soc"></a>
             <a href="https://www.linkedin.com/in/xhesika-milaqi-465687237/" target="_blank"><img src="./images/linkedin.png" alt="Logo du Linkedin" class="reseau-soc"></a>
         </div>
         <!-- SLIDER -->
@@ -61,8 +57,8 @@
                     <p id="slide2"> Sens du relationel <br> <span class="info">Esprit d'entre-aide </span><br> <br> Administration<br> <span class="info">Capacité d'adaptation</span></p>
                     <p id="slide3"><span class="info">Competences Web </span><br> <br>HTML <br><span class="info"> CSS </span><br> SaSS <br> </p>
                     <p id="slide4"> <span class="info"> JavaScript </span><br> JQuery <br> <span class="info">PHP </span><br>MySQL <br><span class="info">CMS (WordPress)</span></p>
-                    <div id="next"><img src="./images/flecher.png" alt="fleche vers la gauche"></div>
-                    <div id="back"><img src="./images/flechel.png" alt="fleche vers la droite"></div>
+                    <div id="next"><img src="./images/next.png" alt="fleche vers la gauche"></div>
+                    <div id="back"><img src="./images/back.png" alt="fleche vers la droite"></div>
                 </figure>
             </div>
             <img src="./images/about.png" alt="Ecriture de background" class="back-slider">
@@ -71,8 +67,8 @@
         <!-- Projets -->
         <div id="project">
             <figure class="my-project">
-                <a href="http://localhost/php/xhesika-lilian/"><img src="./img-projet/beauty-pro.jpg" alt="Photo et liens vers un de mes projets" class="project-img" data-tilt></a>
-                <a href="http://localhost/php/Xhesika-Tiff-Lilian.Nouveau/"><img src="./img-projet/gite-pro.jpg" alt="Photo et liens vers un de mes projets" class="project-img" data-tilt></a>
+                <a href="http://localhost/php/xhesika-lilian/" target="_blank"><img src="./img-projet/beauty-pro.jpg" alt="Photo et liens vers un de mes projets" class="project-img" data-tilt></a>
+                <a href="http://localhost/php/Xhesika-Tiff-Lilian.Nouveau/" target="_blank"><img src="./img-projet/gite-pro.jpg" alt="Photo et liens vers un de mes projets" class="project-img" data-tilt></a>
             </figure>
             <a href="./project.php"><button class="submit">Voir les projets</button></a>
 
