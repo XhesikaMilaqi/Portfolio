@@ -30,7 +30,7 @@
         <a href="./info/CV-Xhesika.pdf" download="CV-Xhesika.pdf" class="cv-lien">Téléchargez le CV</a>
 
         <img src="./images/me.jpg" alt="Image de moi-même" class="moi-meme">
-        <h2 class="desc-info"> <strong> Developpeuse web fullstack </strong><br> Actuellement en formation et en recherche de stage. 
+        <h2 class="desc-info"> <strong> Developpeuse web fullstack à Charvieu-Chavagneux</strong><br>  Actuellement en formation et en recherche de stage. 
         <br><br></h2>
 
         <p class="desc-info para"> Je m'appelles Xhesika Milaqi, je suis actuellement en formation de developpement web et web mobile, qui términe le 28 Novombre 2022.

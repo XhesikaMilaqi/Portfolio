@@ -41,7 +41,7 @@
         <img src="./images/Background.png" alt="background" class="background-first">
         <div class="reseaux">
             <a href="https://github.com/XhesikaMilaqi" target="_blank"><img src="./images/git.png" alt="Logo de github" class="reseau-soc"></a>
-            <a href="" target="_blank"><img src="./images/instagram.png" alt="Logo de Instagram" class="reseau-soc"></a>
+            <a href="https://www.instagram.com/jcodeuse/" target="_blank"><img src="./images/instagram.png" alt="Logo de Instagram" class="reseau-soc"></a>
             <a href="https://www.linkedin.com/in/xhesika-milaqi-465687237/" target="_blank"><img src="./images/linkedin.png" alt="Logo du Linkedin" class="reseau-soc"></a>
         </div>
         <!-- SLIDER -->

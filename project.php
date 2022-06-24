@@ -25,28 +25,41 @@
         <div>
             <figcaption>
                 <h3 class="tittre-projet">PROJET <br>
+                - Département -</h3>
+                <a href="https://xhesikam.promo-122.codeur.online/departement/" target="_blank"><img src="./img-projet/departement.jpg" alt="Image de projet" class="pro-img"></a>
+                <h3 class="tittre-projet">HTML, CSS</h3>
+                <h4 class="description desc-projet">
+                Ce projet etait mon premier projet en terme de site web sans compter les petits projets pour faire un logo etc. Sur ce projet j'ai choisi le departement de Normandie.
+                </h4>
+            </figcaption>
+            <a href="https://xhesikam.promo-122.codeur.online/departement/" target="_blank" class="pro-lien">VOIR LE PROJET</a>
+
+        </div>
+        <div>
+            <figcaption>
+                <h3 class="tittre-projet">PROJET <br>
                 - Salon de Beauté -</h3>
-                <a href="http://localhost/php/xhesika-lilian/" target="_blank"><img src="./img-projet/beauty.jpg" alt="Image de projet" class="pro-img"></a>
+                <a href="http://xhesikam.promo-122.codeur.online/salondebeaute/" target="_blank"><img src="./img-projet/beauty.jpg" alt="Image de projet" class="pro-img"></a>
                 <h3 class="tittre-projet">HTML, CSS, JavaScript</h3>
                 
                 <h4 class="description desc-projet">Sur ce projet j'ai collaborée avec un collègue pour avoir une rendu d'un site de salon de beauté. J'ai travaillé sur la partie du header, footer et j'ai stylisé la partie main du site en Html et CSS, où se trouve les images et les parties texte, sur lesquels nous décrivons ce que nous proposons comme soins. J'ai utilisé JavaScript pour faire le menu burger.</h4>
             </figcaption>
-            <a href="http://localhost/php/xhesika-lilian/" target="_blank" class="pro-lien">VOIR LE PROJET</a>
+            <a href="http://xhesikam.promo-122.codeur.online/salondebeaute/" target="_blank" class="pro-lien">VOIR LE PROJET</a>
         </div>
 
         <div>
             <figcaption>
                 <h3 class="tittre-projet">PROJET <br>
                 - Guest House -</h3>
-                <a href="http://localhost/php/Xhesika-Tiff-Lilian.Nouveau/" target="_blank"><img src="./img-projet/projetG.jpg" alt="Image de projet" class="pro-img"></a>
+                <a href="http://xhesikam.promo-122.codeur.online/gites/" target="_blank"><img src="./img-projet/projetG.jpg" alt="Image de projet" class="pro-img"></a>
                 <h3 class="tittre-projet">HTML, PHP, SaSS, JavaScript</h3>
                 
                 <h4 class="description desc-projet">
                 Sur ce projet j'ai collaborée avec deux collègues pour faire un site des gîtes en PHP. J'ai travaillé sur tout le front en Html et SaSS. J'ai utilisé JavaScript pour le slider. Pour voir la partie admin, vous devez vous connecter avec l'id:  Admin et mot de passe: Admin.
                 </h4>
             </figcaption>
-            <a href="http://localhost/php/Xhesika-Tiff-Lilian.Nouveau/" target="_blank" class="pro-lien">VOIR LE PROJET</a>
-            <a href="http://localhost/php/Xhesika-Tiff-Lilian/admin/" target="_blank" class="pro-lien">VOIR Admin</a>
+            <a href="http://xhesikam.promo-122.codeur.online/gites/" target="_blank" class="pro-lien">VOIR LE PROJET</a>
+            <a href="http://xhesikam.promo-122.codeur.online/gites/admin/" target="_blank" class="pro-lien">VOIR Admin</a>
 
         </div>
 
@@ -54,13 +67,13 @@
             <figcaption>
                 <h3 class="tittre-projet">PROJET <br>
                 - Jeu Memory -</h3>
-                <a href="http://127.0.0.1:5502/index.html" target="_blank"><img src="./img-projet/memory.jpg" alt="Image de projet" class="pro-img"></a>
+                <a href="https://xhesikam.promo-122.codeur.online/memory/" target="_blank"><img src="./img-projet/memory.jpg" alt="Image de projet" class="pro-img"></a>
                 <h3 class="tittre-projet">JavaScript</h3>
                 <h4 class="description desc-projet">
                 Sur ce projet j'ai travaillé en full JavaScript. Projet pour reussir un jeu de memory. 
                 </h4>
             </figcaption>
-            <a href="http://127.0.0.1:5502/index.html" target="_blank" class="pro-lien">VOIR LE PROJET</a>
+            <a href="http://xhesikam.promo-122.codeur.online/memory/" target="_blank" class="pro-lien">VOIR LE PROJET</a>
 
         </div>
 

@@ -593,6 +593,10 @@ footer .copyright {
   letter-spacing: 1px;
 }
 
+#page-cv .desc-info strong {
+  font-size: 1.5rem;
+}
+
 #page-cv .gap {
   margin-top: 150px;
   font-size: 2rem;
